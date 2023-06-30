@@ -1,2 +1,2 @@
 # docker_flask_html
-To practice using Docker, Flask, and HTML together.
+This is a simple project that shows how to send command line parameters via docker to a flask application that will do some computation in Python then display the results into an HTML template.
